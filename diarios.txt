@@ -3,3 +3,5 @@
 3.- Tu diario
 4.- He actualizado mi diario
 5.- Ya he creado las ramas
+6.- Se modificaron los diarios
+7.- He anadido mas texto 
